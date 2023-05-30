@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Output_lab7_EMPD](https://github.com/AdhithyaMR/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118834761/732ee3e6-ef1d-482b-a2dc-c2e02244a54d)
 
-### Name:
-### Register Number:
+
+
+### Name: Adhithya M R
+
+### Register Number: 212222240002
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
